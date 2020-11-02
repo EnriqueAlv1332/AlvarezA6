@@ -1,0 +1,146 @@
+Transaction # 1
+Started @ tick: 0
+ended @ tick: 1
+Consumed 4 units of work.
+
+Transaction # 2
+Started @ tick: 2
+ended @ tick: 2
+Consumed 1 units of work.
+
+Transaction # 3
+Started @ tick: 2
+ended @ tick: 3
+Consumed 3 units of work.
+
+Transaction # 4
+Started @ tick: 7
+ended @ tick: 7
+Consumed 2 units of work.
+
+Transaction # 5
+Started @ tick: 9
+ended @ tick: 9
+Consumed 2 units of work.
+
+Transaction # 6
+Started @ tick: 12
+ended @ tick: 13
+Consumed 4 units of work.
+
+Transaction # 7
+Started @ tick: 14
+ended @ tick: 15
+Consumed 4 units of work.
+
+Transaction # 8
+Started @ tick: 15
+ended @ tick: 16
+Consumed 3 units of work.
+
+Transaction # 9
+Started @ tick: 18
+ended @ tick: 18
+Consumed 1 units of work.
+
+Transaction # 10
+Started @ tick: 19
+ended @ tick: 20
+Consumed 4 units of work.
+
+Transaction # 11
+Started @ tick: 20
+ended @ tick: 21
+Consumed 3 units of work.
+
+Transaction # 12
+Started @ tick: 22
+ended @ tick: 22
+Consumed 2 units of work.
+
+Transaction # 13
+Started @ tick: 23
+ended @ tick: 24
+Consumed 4 units of work.
+
+Transaction # 14
+Started @ tick: 24
+ended @ tick: 25
+Consumed 3 units of work.
+
+Transaction # 15
+Started @ tick: 26
+ended @ tick: 27
+Consumed 4 units of work.
+
+Transaction # 16
+Started @ tick: 28
+ended @ tick: 28
+Consumed 2 units of work.
+
+Transaction # 17
+Started @ tick: 30
+ended @ tick: 31
+Consumed 4 units of work.
+
+Transaction # 18
+Started @ tick: 33
+ended @ tick: 33
+Consumed 1 units of work.
+
+Transaction # 19
+Started @ tick: 36
+ended @ tick: 37
+Consumed 4 units of work.
+
+Transaction # 20
+Started @ tick: 38
+ended @ tick: 38
+Consumed 2 units of work.
+
+Transaction # 21
+Started @ tick: 38
+ended @ tick: 39
+Consumed 3 units of work.
+
+Transaction # 22
+Started @ tick: 40
+ended @ tick: 41
+Consumed 4 units of work.
+
+Transaction # 23
+Started @ tick: 42
+ended @ tick: 42
+Consumed 1 units of work.
+
+Transaction # 24
+Started @ tick: 43
+ended @ tick: 43
+Consumed 1 units of work.
+
+Transaction # 25
+Started @ tick: 44
+ended @ tick: 44
+Consumed 1 units of work.
+
+Transaction # 26
+Started @ tick: 44
+ended @ tick: 45
+Consumed 3 units of work.
+
+Transaction # 27
+Started @ tick: 45
+ended @ tick: 46
+Consumed 3 units of work.
+
+Transaction # 28
+Started @ tick: 46
+ended @ tick: 47
+Consumed 3 units of work.
+
+Transaction # 29
+Started @ tick: 48
+ended @ tick: 48
+Consumed 2 units of work.
+
+The simulation has ended after completing 29 Transactions
